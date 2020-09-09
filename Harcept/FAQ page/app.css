@@ -1,0 +1,56 @@
+
+  .navbar{
+    min-height: 50px;
+    height: 110px;
+    background: black;
+  } 
+  .Services{
+      font-family: 'Exo', sans-serif;
+      font-size: 60px;
+  }
+ #navbarSupportedContent{
+     background: black;
+     width: 100%;
+ }
+ .navbar li{
+     color: white;
+ }
+ .nav.navbar li a {
+    color:white;
+    
+}
+ a.navbar-brand {
+    font-size: 25px;
+}
+.navbar .navbar-nav li a{
+    color: white !important;
+    font-size:18px;
+    transition: transform .2s;
+}
+.navbar .navbar-nav li :hover{
+    transform: scale(1.5);
+   
+
+    
+
+    
+}
+h1{
+    color: white;
+    padding:85px;
+    padding-bottom: 0;
+
+}
+
+.jumbotron{
+    height: 40%;
+    background: url("https://cdn.wallpapersafari.com/91/0/1UmstA.png");
+    font-size: 200px;
+    padding:0;
+    margin-bottom: 0;
+}
+.questions{
+    font-size:25px;
+    padding: 0;
+    margin-top: 0;
+}

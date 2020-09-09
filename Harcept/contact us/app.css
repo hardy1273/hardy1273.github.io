@@ -1,0 +1,85 @@
+
+  .navbar{
+    height: 110px;
+    background: black;
+  } 
+ #navbarSupportedContent{
+     background: black;
+     width: 100%;
+ }
+ .navbar li{
+     color: white;
+ }
+ .nav.navbar li a {
+    color:white;
+}
+ a.navbar-brand {
+    font-size: 25px;
+}
+.navbar .navbar-nav li a{
+    color: white !important;
+    font-size:18px;
+    transition: transform .2s;
+}
+h1{
+    color: black;
+}
+.jumbotron-fluid {
+    background-image: url("Contact-Us-bg-02.jpg");
+    background-size:cover;
+    padding:27rem;
+    color: white;
+    margin-bottom:50px;
+  }
+  .jumbotron-fluid h1{
+      font-size: 90px;
+      font-family: 'Poiret One', cursive;
+     margin-top: 20px;
+  }
+  .jumbotron-fluid hr{
+      width: 500px;
+      height: 20px;
+  }
+  #email{
+      font-size: 25px;
+  }
+  #contact_number{
+      font-size: 25px;
+  }
+  #bio{
+      margin-left: 125px;
+  }
+  #contact_details{
+    font-family:'Comfortaa', cursive;
+  }
+  #about_bio{
+    font-family:'Comfortaa', cursive;
+  }
+  .navbar .navbar-nav li :hover{
+    transform: scale(1.5);
+   
+
+    
+
+    
+}
+#availibility_details{
+    font-size: 25px;
+
+}
+#timing_details{
+    font-size: 25px;
+
+}
+#address_{
+    font-size: 25px;
+}
+
+
+body{
+    background: black;
+}
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+   }

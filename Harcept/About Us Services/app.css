@@ -1,0 +1,126 @@
+.jumbotron-fluid {
+    
+    background-size:cover;
+    padding:27rem;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    background-image: url("Original.jpg");
+    /**position: fixed;
+    width: 100%;
+    z-index: 10;**/
+  }
+  .navbar{
+    min-height: 50px;
+    height: 110px;
+    background: black;
+    
+  } 
+  .Services{
+      font-family: 'Exo', sans-serif;
+      font-size: 60px;
+  }
+ #navbarSupportedContent{
+     background: black;
+     width: 100%;
+ }
+ .navbar li{
+     color: white;
+ }
+ .nav.navbar li a {
+    color:white;
+    
+}
+ a.navbar-brand {
+    font-size: 25px;
+}
+.navbar .navbar-nav li a{
+    color: white !important;
+    font-size:18px;
+    transition: transform .2s;
+}
+.jumbotron-fluid h1{
+    font-size: 80px;
+}
+hr{
+    width: 400px;
+}
+.blurb h2 {
+   color: black;
+   font-weight: 100;
+   font-size: 2.5rem;
+}
+
+.blurb p {
+    color: black;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+.navbar .navbar-nav li :hover{
+    transform: scale(1.5);
+   
+
+    
+
+    
+}
+#jumb2{
+    background: url("image1.jpg");
+    width: 100%;
+    background-size: cover;
+    height: 50%;
+
+}
+#text1{
+    color: black;
+}
+#jumb3{
+    background: url("image4.jpg");
+    width: 100%;
+    background-size: cover;
+    height: 50%;
+    
+}
+#jumb4{
+    background: url("image3.jpg");
+    width: 100%;
+    background-size: cover;
+    height: 50%;
+}
+body{
+    background-color: black;
+}
+.fadein1{
+    opacity:0;
+}
+.fadein2{
+    opacity:0;
+}
+.fadein3{
+    opacity:0;
+}
