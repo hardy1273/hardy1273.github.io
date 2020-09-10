@@ -4,7 +4,7 @@
     padding:27rem;
     color: white;
     font-family: 'Quicksand', sans-serif;
-    background-image: url("About Us Services\Original.jpg");
+    background-image: url("\About Us Services\Original.jpg");
     /**position: fixed;
     width: 100%;
     z-index: 10;**/
@@ -90,7 +90,7 @@ hr{
     
 }
 #jumb2{
-    background: url("About Us Services\image1.jpg");
+    background: url("\About Us Services\image1.jpg");
     width: 100%;
     background-size: cover;
     height: 50%;
@@ -100,14 +100,14 @@ hr{
     color: black;
 }
 #jumb3{
-    background: url("About Us Services\image4.jpg");
+    background: url("\About Us Services\image4.jpg");
     width: 100%;
     background-size: cover;
     height: 50%;
     
 }
 #jumb4{
-    background: url("About Us Services\image3.jpg");
+    background: url("\About Us Services\image3.jpg");
     width: 100%;
     background-size: cover;
     height: 50%;
