@@ -1,6 +1,6 @@
- #navbarSupportedContent{
+#navbarSupportedContent{
      background: black;
-     width: 100%;
+    
  }
  .navbar li{
      color: white;
@@ -8,12 +8,12 @@
  .nav.navbar li a {
     color:white;
 }
-  .navbar{
-    min-height: 50px;
-    height: 110px;
-    background: black;
-    
-  } 
+.navbar{
+  min-height: 50px;
+  height: 110px;
+  background: black;
+  
+} 
 body{
 	background:url(bg2.jpg);
 	background-size: cover;
@@ -69,8 +69,10 @@ hr{
 
 .navbar .navbar-nav li a{
     color: white !important;
-    font-size: 18px;
+    font-size: 30px;
     transition: transform .2s;
+    height: 100%;
+    font-weight: lighter;
 }
 .navbar .navbar-nav li :hover{
     transform: scale(1.5);
@@ -88,4 +90,10 @@ hr{
   margin-top:30%;
  font-size: 25px;
 
+}
+.navbar-collapse {
+  height: 100%;
+}
+.show{
+  height: 100%;
 }
