@@ -124,3 +124,10 @@ body{
 .fadein3{
     opacity:0;
 }
+
+.footer{
+    background: black;
+    color: white;
+    height: 10%;
+    
+}

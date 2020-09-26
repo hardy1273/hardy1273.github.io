@@ -58,3 +58,9 @@ h1{
     margin-top: 70px;
     font-size: 110px;
 }
+.footer{
+    background: black;
+    color: white;
+    height: 10%;
+    
+}
